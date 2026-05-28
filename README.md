@@ -1,4 +1,4 @@
-<img width="26" height="27" alt="{18434036-5B79-4A51-8CE3-D756286FEAA6}" src="https://github.com/user-attachments/assets/effa938c-98f8-4f40-9250-08375cf14f77" /># 🖐️ AI Hand Gesture Computer Control – Computer Vision Project
+🖐️ AI Hand Gesture Computer Control – Computer Vision Project
 
 This project uses Computer Vision and Hand Tracking techniques to control computer operations using real-time hand gestures. Leveraging OpenCV, MediaPipe, and PyAutoGUI, the system enables users to interact with their computer without physical contact through webcam-based gesture recognition.
 
