@@ -46,7 +46,6 @@ Useful for:
 * `handdetector.py` : Detects and tracks hand landmarks using MediaPipe
 * `gestureController.py` : Handles gesture recognition logic and system actions
 * `requirements.txt` : Required Python libraries
-* `screenshots/` : Contains project output images
 * `README.md` : Project documentation
 
 ---
@@ -69,7 +68,7 @@ Useful for:
 | Gesture                | Action         |
 | ---------------------- | -------------- |
 | 👉 Index Finger Up     | Move Mouse     |
-| 🤟 Thumb + Index Close | Mouse Click    |
+| 🤟 Three Fingers Up    | Mouse Click    |
 | ✌️ Two Fingers Up      | Scroll         |
 | 👌 Specific Gesture    | Screenshot     |
 | 🤏 Pinch Gesture       | Volume Control |
@@ -91,9 +90,6 @@ Useful for:
 * Virtual mouse movement
 * Gesture-based clicking and scrolling
 * Dynamic volume control
-
-(Add screenshots of your project here)
-
 ---
 
 # 🛠️ Tech Stack
